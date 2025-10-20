@@ -1,0 +1,26 @@
+.body{
+  background-color: rgb(24, 24, 24);
+}
+#root {
+  background-color: rgb(24, 24, 24);
+}
+
+
+input {
+  width: 100%;
+  
+}
+
+.container{
+  text-align: left;
+  margin-left: 20px;
+  color: aliceblue;
+}
+
+.ad-row {
+  margin: 10px 5px;
+}
+
+.ad-btn {
+  min-width: 80px;
+}
